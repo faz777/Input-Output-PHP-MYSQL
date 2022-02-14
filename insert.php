@@ -1,7 +1,7 @@
 <?php
     $servername='localhost';
     $username='h77588vx_form';
-    $password='Hello123';
+    $password='Hel';
     $dbname = "h77588vx_form";
     $conn=mysqli_connect($servername,$username,$password,"$dbname");
       if(!$conn){
